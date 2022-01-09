@@ -3,4 +3,4 @@
 #### Emir Tarık DAKIN
 
 
-### Notebook 1 - Python Overview
+### Notebook 1 - Python Overview - w/ Ryiad Hajji
