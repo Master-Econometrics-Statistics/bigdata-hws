@@ -1,5 +1,5 @@
 # bigdata-hws
-## TSE 2022 - M2 D3S - Homework repository for the Big Data course.
+## TSE 2022 - M2 D3S - Homework repository for the Big Data [course](https://waterponey.github.io/BigDataClass).
 *Emir Tarık DAKIN - Ryiad HAJJI*
 
 
