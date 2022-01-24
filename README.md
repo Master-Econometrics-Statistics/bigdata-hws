@@ -5,3 +5,4 @@
 
 #### Notebook 1 - Python Overview
 #### Notebook 2 - Spark RDD
+#### Notebook 3 - Visualization
