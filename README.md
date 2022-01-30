@@ -6,3 +6,4 @@
 #### Notebook 1 - Python Overview
 #### Notebook 2 - Spark RDD
 #### Notebook 3 - Visualization
+#### Notebook 4 - Spark SQL and DataFrames
